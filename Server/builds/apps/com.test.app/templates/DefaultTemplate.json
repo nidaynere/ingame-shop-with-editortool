@@ -1,0 +1,33 @@
+{
+    "ItemDefinitions": [
+        {
+            "Id": "Gems",
+            "Name": "Gem",
+            "IconURL": "",
+            "Desc": ""
+        },
+        {
+            "Id": "Tickets",
+            "Name": "Tickets",
+            "IconURL": "",
+            "Desc": ""
+        },
+        {
+            "Id": "Coins",
+            "Name": "Coins",
+            "IconURL": "",
+            "Desc": ""
+        }
+    ],
+    "Products": [
+        {
+            "Id": "multiple_gem",
+            "Name": "",
+            "IconURL": "",
+            "Desc": "",
+            "ItemId": "Gems",
+            "Amount": 0
+        }
+    ],
+    "Bundles": []
+}

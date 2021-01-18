@@ -1,0 +1,210 @@
+{
+    "ItemDefinitions": [
+        {
+            "Id": "Coins",
+            "Name": "Coins",
+            "IconURL": "https://icons.iconarchive.com/icons/indeepop/shiny/128/Star-icon.png",
+            "Desc": ""
+        },
+        {
+            "Id": "Tickets",
+            "Name": "Tickets",
+            "IconURL": "https://img.icons8.com/ios/452/ticket.png",
+            "Desc": ""
+        },
+        {
+            "Id": "Gems",
+            "Name": "Gems",
+            "IconURL": "https://icons.iconarchive.com/icons/babasse/bagg-and-boxs/256/Des-icon.png",
+            "Desc": ""
+        },
+        {
+            "Id": "Sword",
+            "Name": "Katana",
+            "IconURL": "",
+            "Desc": ""
+        }
+    ],
+    "Products": [
+        {
+            "Id": "x10_tickets",
+            "Name": "x10 TICKETSS!!",
+            "IconURL": "https://icons.iconarchive.com/icons/hopstarter/sleek-xp-basic/256/Statistics-icon.png",
+            "Desc": "LIKE I SAID 10 tickets",
+            "Prices": [
+                {
+                    "CurrencyType": 0,
+                    "Value": 20.0
+                }
+            ],
+            "ItemId": "Tickets",
+            "Amount": 10
+        },
+        {
+            "Id": "x25_tickets",
+            "Name": "bonus 25 tickets",
+            "IconURL": "https://icons.iconarchive.com/icons/fasticon/comic-tiger/128/home-icon.png",
+            "Desc": "descdescdesc",
+            "Prices": [
+                {
+                    "CurrencyType": 0,
+                    "Value": 80.0
+                }
+            ],
+            "ItemId": "Tickets",
+            "Amount": 100
+        },
+        {
+            "Id": "x100_tickets",
+            "Name": "-100-TICKETS!",
+            "IconURL": "https://icons.iconarchive.com/icons/raindropmemory/red-little-shoes/256/ArchiveFile-icon.png",
+            "Desc": "purchase now",
+            "Prices": [
+                {
+                    "CurrencyType": 0,
+                    "Value": 400.0
+                }
+            ],
+            "ItemId": "Tickets",
+            "Amount": 100
+        },
+        {
+            "Id": "gemmini",
+            "Name": "minigem",
+            "IconURL": "https://icons.iconarchive.com/icons/danrabbit/elementary/128/Heart-icon.png",
+            "Desc": "gemsminiminigems",
+            "Prices": [
+                {
+                    "CurrencyType": 0,
+                    "Value": 45.0
+                }
+            ],
+            "ItemId": "Gems",
+            "Amount": 5
+        },
+        {
+            "Id": "jewelry",
+            "Name": "Middle Pack Of Jewelry",
+            "IconURL": "https://icons.iconarchive.com/icons/xenatt/minimalism/256/App-dictionary-icon.png",
+            "Desc": "jewijewi",
+            "Prices": [
+                {
+                    "CurrencyType": 0,
+                    "Value": 800.0
+                }
+            ],
+            "ItemId": "Gems",
+            "Amount": 250
+        },
+        {
+            "Id": "legendpacket",
+            "Name": "Legendary Pack",
+            "IconURL": "https://icons.iconarchive.com/icons/atyourservice/service-categories/256/Security-Bell-icon.png",
+            "Desc": "very legendary",
+            "Prices": [
+                {
+                    "CurrencyType": 0,
+                    "Value": 10000.0
+                }
+            ],
+            "ItemId": "Gems",
+            "Amount": 2000
+        },
+        {
+            "Id": "goldpack_small",
+            "Name": "pile of golds",
+            "IconURL": "https://icons.iconarchive.com/icons/manda-pie/chocolate/128/chocolate-4w-icon.png",
+            "Desc": "low amount of golds make you happy",
+            "Prices": [
+                {
+                    "CurrencyType": 0,
+                    "Value": 4.0
+                }
+            ],
+            "ItemId": "Coins",
+            "Amount": 250
+        },
+        {
+            "Id": "goldpack_big",
+            "Name": "big gold pack",
+            "IconURL": "https://icons.iconarchive.com/icons/hopstarter/soft-scraps/256/My-Pictures-icon.png",
+            "Desc": "treasure!!",
+            "Prices": [
+                {
+                    "CurrencyType": 0,
+                    "Value": 19.0
+                }
+            ],
+            "ItemId": "Coins",
+            "Amount": 250
+        }
+    ],
+    "Bundles": [
+        {
+            "Id": "all_in_one",
+            "Name": "All in one",
+            "IconURL": "https://icons.iconarchive.com/icons/raindropmemory/harmonia-pastelis/256/hp-folder-boy-icon.png",
+            "Desc": "Get all in one bundle & Cheaper",
+            "Prices": [
+                {
+                    "CurrencyType": 0,
+                    "Value": 45.0
+                }
+            ],
+            "BundleItems": [
+                {
+                    "ItemId": "Coins",
+                    "Amount": 12
+                },
+                {
+                    "ItemId": "Tickets",
+                    "Amount": 4
+                },
+                {
+                    "ItemId": "Gems",
+                    "Amount": 3
+                }
+            ]
+        },
+        {
+            "Id": "collection_rare",
+            "Name": "RARE COLLECTOR PACK",
+            "IconURL": "https://icons.iconarchive.com/icons/webalys/kameleon.pics/256/Boss-3-icon.png",
+            "Desc": "get some tickets and gems",
+            "Prices": [
+                {
+                    "CurrencyType": 0,
+                    "Value": 45.0
+                }
+            ],
+            "BundleItems": [
+                {
+                    "ItemId": "Tickets",
+                    "Amount": 55
+                },
+                {
+                    "ItemId": "Gems",
+                    "Amount": 25
+                }
+            ]
+        },
+        {
+            "Id": "a_lot_katana",
+            "Name": "KATANA_PARTY",
+            "IconURL": "",
+            "Desc": "",
+            "Prices": [
+                {
+                    "CurrencyType": 0,
+                    "Value": 9000.0
+                }
+            ],
+            "BundleItems": [
+                {
+                    "ItemId": "Sword",
+                    "Amount": 100
+                }
+            ]
+        }
+    ]
+}
