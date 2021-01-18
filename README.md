@@ -5,7 +5,9 @@ Use Payments tool to create a app on Payments API & template for your app by usi
 You can register your functions to ShopManager.OnPurchaseItem action, it will return a ShopItem object which contains product ids, price, counts etc. when user want to purchase something.
 
 Payments API is made for developers. Run it in your local system or private cloud (it's a go service), create your app and template. When you pull it, you will see your PaymentsTemplate in your Resources folder, your app will use the template in your Resources folder on realtime.
-******** API has no security. All requests is open for everyone!! Keep it private in your team!
+
+******** 
+API has no security. All requests is open for everyone!! Keep it private within your team!
 
 Quick look=>
 https://www.youtube.com/watch?v=eoiMxcYI1Ek
