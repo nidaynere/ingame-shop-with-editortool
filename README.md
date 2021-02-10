@@ -9,9 +9,6 @@ Payments API is made for developers. Run it in your local system or private clou
 ******** 
 API has no security. All requests is open for everyone!! Keep it private within your team!
 
-Quick look=>
-https://www.youtube.com/watch?v=eoiMxcYI1Ek
-
 [Known Issues]
 - Prices can have multiple currencies currently, but Shop is using US Dollars only (for example on Sorting by price.)
 	In future, PaymentsAppSettings contains users currency, and shop can be managed with that currency.
